@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Emmanuel Ngombe-Itoua</h1>
 
 <p align="center">
-  🎓 ALX Software Engineering & Data Science Learner | 🧠 Passionate about Optimization, Process Engineering, and Data-Driven Solutions
+  🎓 ALX Software Engineering & Data Science Professional | 🧠 Passionate about Optimization, Process Engineering, and Data-Driven Solutions
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 👨🏾‍💻 About Me
 
-🌍 Based in South Africa | 🌱 Industrial Engineering Graduate  
+🌍 Based in South Africa | 🌱 Industrial Engineer  
 💡 Currently enrolled in the **ALX Backend Engineering** and **Data Science** programs  
 💼 Seeking opportunities in **Data Science**, **Backend Development**, **Process Optimization**, and **Consulting Projects**
 
@@ -43,6 +43,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Tensorflow](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Scikit-learn](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 
 ### ☁️ DevOps & DataOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
