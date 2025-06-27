@@ -43,8 +43,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Tensorflow](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Scikit-learn](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FC5a03?style=for-the-badge&logo=powerbi&logoColor=000)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-cefc03?style=for-the-badge&logo=powerbi&logoColor=000)
 
 ### ☁️ DevOps & DataOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
