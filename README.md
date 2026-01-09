@@ -13,7 +13,7 @@
 ## 👨🏾‍💻 About Me
 
 🌍 Based in South Africa | 🌱 Industrial Engineer  
-💡 Completed **ALX Data Science** program  
+💡 Completed **Explore AI Data Science** program  
 💼 **Data Science**, **Backend Development**, **Process Optimization**, and **Consulting Projects**
 
 🔧 I combine my passion for:
