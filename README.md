@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Emmanuel Ngombe-Itoua</h1>
+<h1 align="center">Hi there 👋, I'm Emmanuel Ngombe Itoua</h1>
 
 <p align="center">
-  🎓 ALX Software Engineering & Data Science Professional | 🧠 Passionate about Optimization, Process Engineering, and Data-Driven Solutions
+  🎓 Industrial Engineer & Data Professional | 🧠 Passionate about Optimization, Process Engineering, and Data-Driven Solutions
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 ## 👨🏾‍💻 About Me
 
 🌍 Based in South Africa | 🌱 Industrial Engineer  
-💡 Currently enrolled in the **ALX Backend Engineering** and **Data Science** programs  
-💼 Seeking opportunities in **Data Science**, **Backend Development**, **Process Optimization**, and **Consulting Projects**
+💡 Completed **ALX Data Science** program  
+💼 **Data Science**, **Backend Development**, **Process Optimization**, and **Consulting Projects**
 
 🔧 I combine my passion for:
 - Business and process **optimization**
