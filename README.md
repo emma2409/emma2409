@@ -74,7 +74,7 @@
 |--------|-------------|------------|
 | [Swaly Ship](https://swaly-ship.biacibenga.com/) | Logistics & parcel delivery management app | Go, Cassandra, DDD |
 | [Process Optimizer](#) | Industrial process improvement using data models | Python, Pandas, Power BI |
-| [ALX Portfolio](#) | Showcasing ALX Backend and Data Science projects | Python, Flask, SQL |
+| [Airbnb backend](#) | Showcasing Backend and Data Science projects | Python, Django, SQL |
 
 ---
 
