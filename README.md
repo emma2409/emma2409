@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Emmanuel Ngombe</h1>
+<h1 align="center">Hi there 👋, I'm Emmanuel Ngombe-Itoua</h1>
 
 <p align="center">
   🎓 Industrial Engineer & Data Professional | 🧠 Passionate about Optimization, Process Engineering, and Data-Driven Solutions
